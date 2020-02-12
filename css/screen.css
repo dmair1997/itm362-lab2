@@ -73,7 +73,7 @@ body {
     	width: 100%;
     }
 		label {
-			display: inline-block;
+			display: block;
 			width: 90px;
 			line-height: 25px;
 		}
