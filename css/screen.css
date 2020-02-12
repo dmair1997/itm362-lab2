@@ -60,7 +60,7 @@ body {
       font-size: 1.0em;
     }
 		input {
-			margin: 0;
+			width: 70%;
 			border: 1px solid #666666;
 			border-radius: 3px;
 		}
