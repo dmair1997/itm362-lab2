@@ -8,7 +8,7 @@ body {
 	padding-bottom: 1em;
 }
 
-@media screen and (max-width: 600px) {
+@media (min-width:320px) {
   form {
     margin: 0 0 10px 0;
     width: 100%;
@@ -56,7 +56,8 @@ body {
 			padding-bottom: 0.5em;
 		}
 }
-@media screen and (max-width: 900px) {
+
+@media (min-width: 1281px) {
   form {
     margin: 0 0 10px 0;
     width: 100%;
