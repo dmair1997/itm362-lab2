@@ -10,17 +10,13 @@ body {
 
 @media only screen and (min-width: 768px) {
   	form {
-    	margin: 0 0 10px 0;
+			text-align: center;
     	width: 70%;
     }
     label {
       width: 100%;
       text-align: center;
       font-size: 1.0em;
-    }
-    fieldset {
-      width: 90%;
-      float: none;
     }
     input {
       width: 90%;
