@@ -59,12 +59,11 @@ body {
     label {
       font-size: 1.0em;
     }
-    input {
-      width: 60%;
-			display: block;
+		input {
+			margin: 0;
 			border: 1px solid #666666;
 			border-radius: 3px;
-    }
+		}
 		h1 {
 			text-align: center;
 			color: midnightblue;
