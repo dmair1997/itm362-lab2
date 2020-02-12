@@ -8,6 +8,26 @@
 	<link rel="stylesheet" media="screen" href="css/screen.css" />
 </head>
 <body>
-	
+	<form method="get" action="#null">
+		<fieldset>
+			<h1>r/hiphopheads Subscription Letter</h1>
+			<p>Sign up to receive weekly newsletters on the latest in hip hop culture.</p>
+			<div>
+				<label for="full_name">Full Name: </label>
+				<input type="text" name="full_name" id="full_name" placeholder="Full name">
+			</div>
+			<div>
+				<label for="email_address">Email Address: </label>
+				<input type="email" name="email_address" id="email_address" placeholder="example@example.com"
+			</div>
+			<div>
+				<label for="date_of_birth">Date of Birth: </label>
+				<input type="text" name="date_of_birth" id="date_of_birth" placeholder="MM/DD/YYYY">
+			</div>
+			<button onclick="subFunct()">Subscribe</button>
+			<p id="subButton"></p>
+			<script src="javascript/script.js"></script>
+		</fieldset>
+	</form>
 </body>
 </html>
