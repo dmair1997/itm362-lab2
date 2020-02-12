@@ -49,6 +49,11 @@ body {
 			padding-top: 0.5em;
 			padding-bottom: 0.5em;
 		}
+		#spacing {
+			text-align: center;
+			padding-top: 1em;
+			padding-bottom: 1em;
+		}
 }
 
 @media only screen and (min-width: 1080px) {
@@ -89,5 +94,10 @@ body {
 		button {
 			padding-top: 0.5em;
 			padding-bottom: 0.5em;
+		}
+		#spacing {
+			text-align: center;
+			padding-top: 1em;
+			padding-bottom: 1em;
 		}
 }
