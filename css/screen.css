@@ -66,11 +66,6 @@ body {
       text-align: center;
       font-size: 1.0em;
     }
-		body {
-	    margin-right: auto;
-	    margin-left: auto;
-	    text-align: center;
-  	}
     input {
       width: 60%;
     }
