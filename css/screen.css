@@ -57,7 +57,7 @@ body {
 		text-align: center;
 	}
 	label {
-		display: inline-block;
+		display: block;
 		width: 90px;
 		line-height: 25px;
 	}
